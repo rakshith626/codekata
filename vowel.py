@@ -1,11 +1,11 @@
-c=input()
-if(c=='a' or c=='e' or c=='i' or c=='o' or c=='u' or c=='A' or c=='E' or c=='I' or c=='O' or c=='U'):
+x=input()
+if(x=='a' or x=='e' or x=='i' or x=='o' or x=='u' or x=='A' or x=='E' or x=='I' or x=='O' or x=='U'):
     print("Vowel")
-elif(c=='B' or c=='b' or c=='C' or c=='c' or c=='D'
- or c=='d' or c=='F' or c=='f' or c=='g' or c=='G' or c=='H' or c=='h' or c=='j' or c=='J' or c=='K'
- or c=='k' or c=='L' or c=='l' or c=='M' or c=='m' or c=='N' or c=='n' or c=='P' or c=='p' or c=='Q'
- or c=='q' or c=='R' or c=='r' or c=='S' or c=='s' or c=='T' or c=='t' or c=='V' or c=='v' or c=='W'
- or c=='w' or c=='x' or c=='X' or c=='Y' or c=='y' or c=='z' or c=='Z'):
+elif(x=='B' or x=='b' or x=='C' or x=='c' or x=='D'
+ or x=='d' or x=='F' or x=='f' or x=='g' or x=='G' or x=='H' or x=='h' or x=='j' or x=='J' or x=='K'
+ or x=='k' or x=='L' or x=='l' or x=='M' or x=='m' or x=='N' or x=='n' or x=='P' or x=='p' or x=='Q'
+ or x=='q' or x=='R' or x=='r' or x=='S' or x=='s' or x=='T' or x=='t' or x=='V' or x=='v' or x=='W'
+ or x=='w' or x=='x' or x=='X' or x=='Y' or x=='y' or x=='z' or x=='Z'):
     print("Consonant")
 else:
     print("invalid")
