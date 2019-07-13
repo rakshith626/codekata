@@ -8,4 +8,4 @@ elif(c=='B' or c=='b' or c=='C' or c=='c' or c=='D'
  or c=='w' or c=='x' or c=='X' or c=='Y' or c=='y' or c=='z' or c=='Z'):
     print("Consonent")
 else:
-    print("Invalid")
+    print("invalid")
